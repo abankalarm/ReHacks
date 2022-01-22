@@ -10,4 +10,5 @@ This repo will house materials for ReHacks.live
 
 2. HackMe 0xChallenges
    
-   1. HackMe: Named pipe client
+   1. HackMe: Named pipe client - https://rehacks.live/t/hackme-named-pipe/16
+   
