@@ -12,3 +12,6 @@ This repo will house materials for ReHacks.live
    
    1. HackMe: Named pipe client - https://rehacks.live/t/hackme-named-pipe/16
    
+Dummy keys for testing something
+Access key ID: AKIAIOSFODNN7EXAMPLE
+Secret access key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
